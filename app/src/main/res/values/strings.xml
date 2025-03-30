@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Javadz</string>
+
+    <!-- href tag is used to add link-->
+    <!-- link for home text view-->
+    <string name="hyperlink"><a href="https://www.geeksforgeeks.org/">geeksforgeeks.org</a></string>
+</resources>
